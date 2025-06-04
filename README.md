@@ -1,4 +1,8 @@
-# Audits
+# Bio
+
+I'm a security researcher with an extensive experience auditing EVM smart contracts. I am also the winner of 5x code4rena contests. Prior to shifting to web3 security, I used to do web & mobile application penetration testing for years.
+
+# Contest History
 
 | Contest name  | Solo / Team | nSloc | Category | Ranking | Prize | H/M Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
