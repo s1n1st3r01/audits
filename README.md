@@ -1,6 +1,6 @@
 # Bio
 
-I'm a blockchain security researcher with experience mostly auditing smart contracts with a proven track record of winning 5 Code4rena contests. I currently do audits at Zenith. Prior to shifting to web3 security, I did web & mobile application penetration testing for years.
+I'm a blockchain security researcher with experience mostly auditing smart contracts with a proven track record of winning 5 Code4rena contests. I currently do audits at **Zenith**. Prior to shifting to web3 security, I did web & mobile application penetration testing for years.
 
 # Contest History
 
