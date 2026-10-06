@@ -1,8 +1,8 @@
 # Bio
 
-I'm a blockchain security researcher with experience mostly auditing smart contracts with a proven track record of winning 5 Code4rena contests. I currently do audits at **Zenith**. Prior to shifting to web3 security, I did web & mobile application penetration testing for years.
+I'm a blockchain security researcher @Zenith with experience mostly auditing smart contracts with a proven track record of winning 5 Code4rena contests. I really enjoy auditing complex large solidity codebases. Prior to shifting to web3 security, I did web & mobile application. penetration testing for years.
 
-# Contest History
+# My contest history
 
 | Contest name  | Solo / Team | nSloc | Category | Ranking | Prize | H/M Count |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -14,4 +14,9 @@ I'm a blockchain security researcher with experience mostly auditing smart contr
 | [Renzo Mitigation review (C4)](https://code4rena.com/audits/2024-06-renzo-mitigation-review)  | Team "LessDupes" | 4k~ | Restaking (EigenLayer), Bridge | Tie 🥈 | 6k$ | -
 | [Decent (C4)](https://code4rena.com/audits/2024-06-renzo-mitigation-review)  | Team "NPCsCorp" | 2.5k~ | Bridge | 3rd place 🥉 | 2.5k$ | (3H, 2M)
 
-
+# Types of projects I really enjoy auditing (and have experience auditing)
+Staking, bridges, L1/L2 smart contracts, NFTs, Rust DLTs.
+# Types of projects I do not audit
+Lending, perpetuals, yield aggregators, gambling, and any project integrating heavily with any of these types of protocols.
+# Types of projects I do not enjoy auditing
+AMMs.
