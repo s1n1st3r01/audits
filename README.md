@@ -23,8 +23,8 @@ I'm a blockchain security researcher @Zenith with experience mostly auditing sma
 
 
 # Types of projects I really enjoy auditing (and have experience auditing)
-Staking, bridges, L1/L2 smart contracts, NFTs, Rust DLTs.
+Staking, bridges, L1/L2 smart contracts, NFTs, Rust DLTs, non-interest bearing stablecoins.
 # Types of projects I do not audit
-Lending, perpetuals, yield aggregators, gambling, and any project integrating heavily with any of these types of protocols.
+Lending/borrowing with interest rate > 0, perpetuals, yield aggregators, gambling, and any project integrating heavily with any of these types of protocols.
 # Types of projects I do not enjoy auditing
 AMMs.
